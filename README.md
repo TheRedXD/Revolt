@@ -1,2 +1,2 @@
 # Revolt
-A Minecraft hack client for everyone.
+A Minecraft utility mod for everyone.
